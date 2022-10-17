@@ -5,6 +5,7 @@
 }
 
 body{
+    font-family: Poppins, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
     margin: 0px 30px;
     background-color: hsl(0, 0%, 98%);
